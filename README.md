@@ -1,1 +1,6 @@
-# EmberJS
+##EmberJS
+
+
+
+>ember install ember-bootstrap
+
