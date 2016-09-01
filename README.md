@@ -5,6 +5,7 @@
 
 ###Generated login route
 >ember generate route about
+
 >ember destroy model empdetails
 
 ###Defining routes
