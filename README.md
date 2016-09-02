@@ -1,6 +1,6 @@
 ##EmberJS
 
-### Installed Bootstrap Cli
+### Installing Bootstrap Cli
 >ember install ember-bootstrap
 
 ###Generated login route
@@ -16,5 +16,25 @@ App.Router.map(function() {
   this.route('favorites', { path: '/favs' });
 });
 ```
+
+### Conditional Statement 
+
+[Conditional Example Link](http://www.tutorialspoint.com/emberjs/temp_conditon_if.htm)
+
+### Form Example in EmberJS
+
+```html
+
+<form {{action "doSomething" on="submit"}}>
+    {{input type="text" value=foobar}}
+    <button type="submit">Save</button>
+</form>
+
+```
+
+### EmberJS Data Model
+
+[ Example ] (https://www.sitepoint.com/fixture-adapters-ember-js-server/)
+
 
 
