@@ -40,7 +40,6 @@ App.Router.map(function() {
 
 ```
 ember g component name-of-the-component
-
 ```
 
 
