@@ -36,5 +36,11 @@ App.Router.map(function() {
 
 [ Example ] (https://www.sitepoint.com/fixture-adapters-ember-js-server/)
 
+### Create component in EmberJS
+
+```
+ember g component name-of-the-component
+
+```
 
 
