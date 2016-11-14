@@ -64,4 +64,6 @@ ember g component name-of-the-component
 
 will remove untracked files, meaning they're gone for good since they aren't in GitHub
 
+>git reset --hard
 
+git reset --hard will not remove untracked files
