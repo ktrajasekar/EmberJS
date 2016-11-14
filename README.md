@@ -42,4 +42,26 @@ App.Router.map(function() {
 ember g component name-of-the-component
 ```
 
+### git commands
+
+>git status
+
+>git checkout bower.json
+
+>git checkout package.json
+
+>git add *
+
+>git commit --no-verify -m "Commit Changes"
+
+>git push --no-verify "Message"
+
+------------------------------------------
+
+### Other git comments 
+
+>git clean -f
+
+will remove untracked files, meaning they're gone for good since they aren't in GitHub
+
 
