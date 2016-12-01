@@ -67,3 +67,9 @@ will remove untracked files, meaning they're gone for good since they aren't in 
 >git reset --hard
 
 git reset --hard will not remove untracked files
+
+### Change fork url 
+
+>git remote -v
+
+>git remote set-url origin git://github.com/youruser/yourrepo
