@@ -73,3 +73,7 @@ git reset --hard will not remove untracked files
 >git remote -v
 
 >git remote set-url origin git://github.com/youruser/yourrepo
+
+### Remove Node Modules 
+
+>rm -rf node_modules/
